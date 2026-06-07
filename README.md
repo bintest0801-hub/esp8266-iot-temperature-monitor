@@ -48,4 +48,4 @@ esp8266-iot-temperature-monitor/
 - **Subject:** Wireless Communication Technology
 - **University:** Hanoi University of Industry (HAUI)
 - **Major:** Electronics & Telecommunications
-- **Year:** 2025
+- **Year:** 2024
