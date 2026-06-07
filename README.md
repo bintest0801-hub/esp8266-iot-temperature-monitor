@@ -35,3 +35,15 @@ mobile app built with MIT App Inventor.
 5. Relay controls fan based on auto/manual mode
 
 ## 📁 Project Structure
+
+esp8266-iot-temperature-monitor/
+├── src/
+│   └── main.ino        # Full firmware source
+└── README.md
+
+## 🎓 Academic Info
+
+- **Subject:** Wireless Communication Technology
+- **University:** Hanoi University of Industry (HAUI)
+- **Major:** Electronics & Telecommunications
+- **Year:** 2025
